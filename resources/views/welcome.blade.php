@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <button class="btn btn-primary">DaisyUI Button</button>
-    <button class="btn border-b-yellow-300">Another Button</button>
+    @livewire('page-test') <!-- Use 'test' for the Livewire component -->
 </body>
 </html>
